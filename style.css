@@ -1,0 +1,68 @@
+body{
+    background-color: rgb(12, 91, 97);
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+
+.boxone{
+    background-color: rgb(100, 185, 185);
+    width: 35%;
+text-align: center;
+border-radius: 4px;
+height: 50vh;
+box-shadow: 3px 4px 2px rgb(255, 244, 85);
+}
+
+#heading{
+    font-family: cursive;
+
+}
+
+.boxthree{
+    margin: 2px;
+    margin-top: 12px;
+    background-color: rgb(231, 247, 88);
+    width: 93%;
+    padding: 15px;
+    text-align: center;
+}
+
+label{
+    margin: 10px;
+    font-family:cursive
+}
+
+#generate{
+    margin-top: 10px;
+    padding: 10px;
+ font-size: medium;   
+ font-family: cursive;
+ border-radius: 5px;
+ box-shadow: 2px 3px 2px rgb(0, 0, 0);
+
+}
+
+#generate:hover{
+    background-color: rgb(37, 157, 238);
+}
+
+#password{
+    background-color: rgb(255, 255, 255);
+    height: 5vh;
+    width: 90%;
+    margin-top: 10px;
+    margin-left:25px;
+    font-size: large;
+    font-family: cursive;
+    align-items: center;
+}
+
+h1{
+    text-shadow: 3px 2px 3px rgb(231, 247, 88);;
+}
